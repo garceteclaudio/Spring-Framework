@@ -17,7 +17,8 @@
 			<value>Garcete</value>
 		</property>		
 	</bean>
-
+	
+	<!-- more bean definitions go here -->
 
 
 </beans>
